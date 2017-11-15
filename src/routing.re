@@ -1,3 +1,3 @@
 type routes =
- | Home
- | User int;
+  | Home
+  | User(int);

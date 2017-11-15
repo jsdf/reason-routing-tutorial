@@ -5,6 +5,7 @@
 {
   "name" : "routing_re",
   "reason" : {"react-jsx" : 2},
+  "refmt": 3,
   "bs-dependencies": ["reason-react", "bs-director"],
   "sources": [
     {
